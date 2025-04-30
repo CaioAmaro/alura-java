@@ -4,7 +4,7 @@ public class Audio {
     private String titulo;
     private int totalReproducoes;
     private int totalCurtidas;
-    private int classificacao;
+    private double classificacao;
 
     public void curte(){
         this.totalCurtidas++;
@@ -38,13 +38,12 @@ public class Audio {
         this.totalCurtidas = totalCurtidas;
     }
 
-    public int getClassificacao() {
+    public double getClassificacao() {
         return classificacao;
     }
 
     public void setClassificacao() {
-        System.out.println("("+totalReproducoes+" / "+totalCurtidas+")" + (totalReproducoes/totalCurtidas));
-        this.classificacao = (totalReproducoes/totalCurtidas) * 5;
+        this.classificacao = ((double) totalCurtidas /totalReproducoes) * 5;
     }
 
 }
