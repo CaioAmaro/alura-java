@@ -1,3 +1,5 @@
+package curso;
+
 import java.util.Scanner;
 
 public class Leitura {

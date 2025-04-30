@@ -1,3 +1,5 @@
+package curso;
+
 public class Condicional {
     public static void main(String[] args) {
         int anoDeLacamento = 2022;
