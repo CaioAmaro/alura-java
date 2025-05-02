@@ -1,8 +1,8 @@
 # 🚀 Este projeto evoluiu!
 
-Este repositório foi isolado. Agora utilizando **Spring Framework**, devido a complexidade e estruturação de pastas decide mudar
-está disponível em:
+Este repositório foi isolado. Agora utilizando **Spring Framework**, devido a complexidade e estruturação de pastas decide separar mais centralizar todos os cursos aqui.
 
-👉 [https://github.com/seu-usuario/nome-do-novo-repositorio](https://github.com/seu-usuario/nome-do-novo-repositorio)
+Contéudo Do Curso:
+👉 [https://github.com/CaioAmaro/lambdas-streams-spring-boot](https://github.com/CaioAmaro/lambdas-streams-spring-boot)
 
 ---
