@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/01-primeira-aplicacao/01-primeira-aplicacao.iml" filepath="$PROJECT_DIR$/01-primeira-aplicacao/01-primeira-aplicacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-aplicando-poo/02-aplicando-poo.iml" filepath="$PROJECT_DIR$/02-aplicando-poo/02-aplicando-poo.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-listas-colecoes-dados/03-listas-colecoes-dados.iml" filepath="$PROJECT_DIR$/03-listas-colecoes-dados/03-listas-colecoes-dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-consumir-api-guardar-arquivos-lidar-excecoes/04-consumir-api-guardar-arquivos-lidar-excecoes.iml" filepath="$PROJECT_DIR$/04-consumir-api-guardar-arquivos-lidar-excecoes/04-consumir-api-guardar-arquivos-lidar-excecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/alura-java.iml" filepath="$PROJECT_DIR$/.idea/alura-java.iml" />
     </modules>
   </component>
